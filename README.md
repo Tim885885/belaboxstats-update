@@ -1,4 +1,4 @@
-# Fetch Belabox stats from remote cloud and save to file. Eg. Belabox stats: eth0: 5360 Kbps (On). wlan0: 4490 Kbps (On). Total bitrate: 9850 Kbps. SoC temperature 39.0 °C
+# Fetch Belabox stats from remote cloud and save to file.
 
 Node is required.
 Node js can be found here: https://nodejs.org/en/download/
